@@ -1,3 +1,6 @@
+Calculator 2_000 is an very lightweight calcualtor, made with .NET CORE 6.0
+
+
 Symbols :
 
 1- "+" : With this symbol you can SUM numbers
